@@ -1,0 +1,15 @@
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\bin\Debug\net6.0\jogorpg.exe
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\bin\Debug\net6.0\jogorpg.deps.json
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\bin\Debug\net6.0\jogorpg.runtimeconfig.json
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\bin\Debug\net6.0\jogorpg.dll
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\bin\Debug\net6.0\ref\jogorpg.dll
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\bin\Debug\net6.0\jogorpg.pdb
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.csproj.AssemblyReference.cache
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.AssemblyInfoInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.AssemblyInfo.cs
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.csproj.CoreCompileInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.dll
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\ref\jogorpg.dll
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.pdb
+D:\Programas no Visual Studio Code\C-Sharp\jogorpg\obj\Debug\net6.0\jogorpg.genruntimeconfig.cache
